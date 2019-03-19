@@ -1,7 +1,5 @@
 <template>
-  <v-container>
-    <v-img src="https://i.kym-cdn.com/photos/images/original/001/218/297/73a.png"/>
-  </v-container>
+  <v-container></v-container>
 </template>
 
 <script>

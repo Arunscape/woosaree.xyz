@@ -8,6 +8,7 @@
     </v-toolbar>
 
     <v-content>
+      <v-img src="https://i.kym-cdn.com/photos/images/original/001/218/297/73a.png"/>
       <router-view/>
     </v-content>
   </v-app>
